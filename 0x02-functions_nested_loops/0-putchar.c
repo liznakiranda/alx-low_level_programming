@@ -1,12 +1,19 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/**
+ * main - Entry point
+ * Return:0
+ */
 
-int main(int argc, char *argv[]) {
-	
-	printf("_putchar\n");
-	
-	return (0);
+int main(void)
+{
+char c[9] = "_putchar";
+int i = 0;
+while (i < 8)
+{
+_putchar(c[i]);
+i++;
 }
-	
+_putchar('\n');
+return (0);
+}
