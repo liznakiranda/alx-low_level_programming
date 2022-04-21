@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * reset_to_98 - reset argument to 98
+ * reset_to_98 - change the value of integer using pointer
  * @n: pointer
  * Return: void
 */
