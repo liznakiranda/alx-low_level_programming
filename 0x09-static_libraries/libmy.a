@@ -1,6 +1,7 @@
-!ELF          >                    p          @     @   óúUH‰å‰}üƒ}ü@_puts _GLOBAL_OFFSET_TABLE_ _putchar              üÿÿÿÿÿÿÿ10            üÿÿÿÿÿÿÿ                       .symtab .strtab .s<arch>
-_abs                          .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                  
-/               1           1     0     0       246       ` trcat.c _strcat                            .symtab .strtab .shstrtab .text .data .bss .com  :  æ  ²  Æ  "  Î  $¢  *Þ  4Â  _strcpy          ~  <Š  B7  HÂ  Næ  Tú  Z¾  `²  fÆ  lb  rV_isupper _memset _strcat _atoi _isdigit _memcpy _strncat _strchr _strlen _strncpy _islower _puts _strcmp _strspn _isalpha _strpbrk _strstr _abs _strcpy _putchar  0-isupper.o/    0           0     0     644     1392      `
+!<arch>
+/               0           0     0     0       246       `
+     :  æ  ²  Æ  "  Î  $¢  *Þ  0Â  6~  <Š  B6  HÂ  Næ  Tú  Z¾  `²  fÆ  lb  rV_isupper _memset _strcat _atoi _isdigit _memcpy _strncat _strchr _strlen _strncpy _islower _puts _strcmp _strspn _isalpha _strpbrk _strstr _abs _strcpy _putchar  0-isupper.o/    0           0     0     644     1392      `
+stoi.c _atoi                              .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                      upper.c _isupper                          .symtab .strtab .shstrtab .text .datet.c _memset                            .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                EL
 
 
-r.c _putchar _GLOBAL_OFFSET_TABLE_ write        #            üÿÿÿÿÿÿÿ                       .symtab .strtab .shstrtab .rela.text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                         _strcpy                            @       )               _strcpy                         
+
